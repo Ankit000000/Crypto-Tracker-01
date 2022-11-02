@@ -1,0 +1,9 @@
+#heading{
+    border: 5px solid blue;     /* 5px is for testing */
+}
+
+#form{
+    border: 5px solid rgb(255, 36, 109);            /* 5px is for testing */
+    height: 250px;
+    width: 390px;
+} 

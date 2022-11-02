@@ -1,0 +1,253 @@
+/* To make the website scrollable*/
+body{
+    overflow-x: hidden;
+    overflow-y: auto;
+    width: 100%;
+    height: 100%;
+    background-color: #000000;
+}
+
+/* designing of navbar starts here */
+.topnav{
+    width: 50%;
+    height: 2em;
+    margin: auto 3px auto 4px;
+}
+
+.topnav a {
+    font-family: 'Roboto Condensed', sans-serif;
+    float: left;
+    color: #000000;
+    text-align: center;
+    padding: 14px 26px;
+    text-decoration: none;
+    font-size: 17px;
+    color: rgb(163 231 68);
+  }
+  
+  /* Change the color of links on hover */
+  .topnav a:hover {
+    background-color: rgb(109, 109, 109);
+    border-radius: 10%;
+    color: rgb(0, 195, 110);
+  }
+  
+  /* Add a color to the active/current link */
+  .topnav a.active {
+    background-color: #32c18c;
+  }
+
+  #navicon h1 {
+    font-family: 'Roboto Condensed', sans-serif;
+    margin: -30px -24px 5px 770px ; 
+    width: 220px;
+    color: #1ba145;
+  }
+
+  #navicon_secondhalf{
+    color: #64ff04;
+  }
+
+  #button1{
+    background-color: #35c216;
+    margin: 30px 0px 0px 106px;
+    width: 20%;
+    height: 48px;
+    border-top-right-radius: 18px;
+    border-bottom-left-radius: 18px;
+    font-size: 20px;
+  }
+
+  #button1 a{
+    color: #000000;
+    text-decoration: none;
+    font-family: 'Roboto Condensed', sans-serif;
+  }
+
+  /* designing of Text and image of cube just below the navbar starts here*/
+  #just_below_navbar{
+    font-family: 'Roboto Condensed', sans-serif;
+    height: 550px;
+    width: 100%;
+    position: relative;
+    
+  }
+
+  #just_below_navbar h3{
+    font-size: x-large;
+    margin: 55px 0px -23px 21px;
+    color: #feffff;
+  }
+
+  #just_below_navbar h1{
+    font-size: xxx-large;
+    margin: 45px 0px 0px 8px;
+    color: #5bd1ba;
+  }
+
+  #just_below_navbar p{
+    font-size: x-large;
+    margin: 41px 0px 0px 55px;
+    color: #f1fffa;
+  }
+
+
+  #just_below_navbar img{
+    position: absolute;
+    background-repeat: no-repeat;
+    width: 59%;
+    height: 100%;
+    top: -18px;
+    left: 400px;
+    right: 0px;
+    bottom: 0px;
+    border-radius: 35px;
+    background-size: cover;
+  }
+
+
+  /*designing for the div2 starts here*/
+
+  #div2{
+    margin-top: 25px;
+    width: 100%;
+    height: 700px;
+  }
+
+
+  #div2 img{
+    width: 100%;
+    height: 650px;
+    margin: 25px 0px 0px 0px;
+    border-radius: 12px;
+    opacity: 50%;
+  }
+
+  #div2 h3{
+    color: rgb(211 211 211);
+    position: absolute;
+    bottom: -140%;
+    left: 35px;
+    font-size: 28px;
+    font-family:monospace;
+    background-color: rgba(0, 0, 0, 0.279);
+    border-top-right-radius: 20px;
+    border-bottom-left-radius: 20px;
+  }
+
+  #div2 h1{
+    color: rgb(192 254 172);
+    position: absolute;
+    bottom: -80%;
+    left: 250px;
+    font-size: 60px;
+    font-family: Arial, Helvetica, sans-serif;
+  }
+
+  #div2 h2{
+    color: rgb(255 255 255);
+    position: absolute;
+    bottom: -60%;
+    left: 19px;
+    font-size: 30px;
+    font-family: Arial, Helvetica, sans-serif;
+  }
+
+   /*designing for the footer starts here*/
+
+  #footer{
+    width: 100%;
+    height: 280px;
+    background-color:rgb(41, 41, 41);
+    margin: 70px 0px 0px 0px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+
+  .footer_divs{
+    width: 23%;
+    height: 250px;
+    display: flex;
+    padding: 0px 0px 0px 0px;
+  }
+
+  .footer_divs h2{
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    margin: 16px 0px 0px 71px;
+    color: rgb(157, 243, 165);
+  }
+
+  .footer_li{
+    margin: 57px 0px 0px -88px;   
+    height: 172px;
+    width: 113px;
+  }
+
+  #footer_div0{
+    margin: 57px 0px 0px -82px;   
+    height: 172px;
+    width: 113px;
+  }
+
+  #footer_div1{
+    margin: 57px 0px 0px -102px;   
+    height: 172px;
+    width: 113px;
+  }
+
+  #footer_div2{
+    margin: 57px 0px 0px -82px;   
+    height: 172px;
+    width: 113px;
+  }
+
+  #footer_div3{
+    margin: 57px 0px 0px -50px;   
+    height: 172px;
+    width: 113px;
+  }
+
+  #footer_div3 img{
+    background-color: white;
+    border-radius: 25px;
+    margin: 8px 0px 0px -23px;   
+    height: 28px;
+    width: 80px;
+  }
+
+  .footer_li a{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 16px;
+    text-decoration: none;
+    color:#e4e4e4;
+    padding: 0px 0px 0px 0px;
+  }
+
+  /*designing for the element below footer starts here*/
+
+  #below_footer{
+    background-color:rgb(41, 41, 41);
+    margin: -14px 0px 0px 0px;
+    width: 100%;
+    height: 170px;
+  }
+
+  #below_footer p{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: white;
+    font-size: 14px;
+    padding: 19px 0px 0px 108px;
+  }
+
+  #below_footer img{
+    padding: 0px 0px 0px 0px;
+    width: 158px;
+    height: 40px;
+  }
+
+  .white{
+    background-color: white;
+    border-radius: 22px;
+  }
+

@@ -1,0 +1,119 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    background-color: black;
+}
+
+.heading{
+    text-align: center;
+    font-size: 3rem;
+    margin-bottom: 1.5rem;
+    color: white;
+    
+}
+
+#cards{
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+}
+
+.card{
+    width: 17%;
+    height: 220px;
+    box-shadow: 0 0 12px 4px rgb(196 255 218);
+    text-align: center;
+    padding: 1.5rem;
+    margin-bottom: 2rem;
+    border-radius: 40px;
+}
+
+.images{
+    width: 50%;
+    margin-top: 12px;
+}
+
+.title{
+    font-size: 1.3rem;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: white;
+}
+
+.category,.price{
+    font-weight: bold;
+    text-transform: capitalize;
+    margin: 8px 0px 0px 0px;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: white;
+
+}
+
+/* designing for before_root starts here */
+
+#before_root{
+    margin: 0px 0px 50px 0px;
+    width: 100%;
+    height: 520px;
+}
+
+#image_div{
+    width: 100%;
+    height: 520px;
+}
+
+#crypto_img{
+    margin: 0px 0px 50px 0px;
+    width: 100%;
+    height: 510px;
+
+}
+
+#header_text1{
+    margin: -380px 0px 0px 41px;
+    width: 84%;
+    height: 100px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    display: flex;
+    
+}
+
+#header_text1 h3{
+    color: rgb(255 255 255);
+    font-size: 28px;
+    background-color: rgb(89 85 85 / 59%);
+    border-radius: 10px;
+    
+}
+
+#header_text2{ 
+    background-color: pink;
+    margin: 110px 0px 0px 23px;
+    width: 25%;
+    height: 38px;  
+    display: flex;
+}
+
+#header_text2 h3{
+    color: #789082;
+    font-size: 28px;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    background-color: rgb(0 0 0 / 83%);
+    border-radius: 10px;   
+}
+
+#header_text3{
+    margin: 3px 0px 0px 91px;
+    width: 40%;
+    height: 40px;
+    display: flex;
+    
+}
+
+#header_text3 h2{
+    color: rgb(255 255 255);
+    font-size: 34px;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    background-color: rgb(0 0 0);
+    border-radius: 10px;   
+}
