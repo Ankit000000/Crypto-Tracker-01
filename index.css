@@ -111,46 +111,45 @@ body{
   #div2{
     margin-top: 25px;
     width: 100%;
-    height: 700px;
+    height: 750px;
   }
 
 
   #div2 img{
     width: 100%;
     height: 650px;
-    margin: 25px 0px 0px 0px;
+    margin: 50px 0px 0px 0px;
     border-radius: 12px;
     opacity: 50%;
   }
 
-  #div2_elements h3{
+  #div2 h3{
     color: rgb(211 211 211);
     position: absolute;
-    bottom: -140%;
-    left: 35px;
+    margin: -430px 0px 0px 0px;
     font-size: 28px;
     font-family:monospace;
     background-color: rgba(0, 0, 0, 0.279);
     border-top-right-radius: 20px;
     border-bottom-left-radius: 20px;
+    display: flex;
   }
 
-  #div2_elements h2{
+  #div2 h2{
     color: rgb(255 255 255);
     position: absolute;
-    bottom: -60%;
-    left: 19px;
+   margin: -622px 0px 0px 30px;
     font-size: 30px;
     font-family: Arial, Helvetica, sans-serif;
   }
 
-  #div2_elements h1{
+  #div2 h1{
     color: rgb(192 254 172);
     position: absolute;
-    bottom: -80%;
-    left: 250px;
+    margin: -533px 0px 0px 205px;
     font-size: 60px;
     font-family: Arial, Helvetica, sans-serif;
+    padding: 0px 0px 0px 0px;
   }
 
   
@@ -252,4 +251,3 @@ body{
     background-color: white;
     border-radius: 22px;
   }
-
