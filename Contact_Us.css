@@ -1,9 +1,90 @@
-#heading{
-    border: 5px solid blue;     /* 5px is for testing */
+body{
+    background-color: rgb(0, 0, 0);
 }
 
-#form{
+/* designing of header starts here */
+
+#heading_div{
+    border: 5px solid blue;     /* 5px is for testing */
+    width: 100%;
+    height: 100px;
+    margin: 12px 0px 0px 0px; 
+
+}
+
+#heading_div h1{
+    border: 5px solid blue;     /* 5px is for testing */
+    width: 30%;
+    height: 60px;
+    margin: 16px 0px 0px 300px; 
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif ;
+    font-size: 54px;
+    color: rgb(0 234 255);
+
+}
+
+/* designing of form starts here */
+
+.form{
     border: 5px solid rgb(255, 36, 109);            /* 5px is for testing */
-    height: 250px;
-    width: 390px;
+    height: 480px;
+    width: 405px;
+    margin: 11px 0px 0px 540px; 
 } 
+
+#username{
+    margin: 0px 0px 0px 108px;
+    border: 2px solid blue;         /* for testing */
+    
+}
+
+#email{
+    margin: 0px 0px 0px 108px;
+    border: 2px solid blue;         /* for testing */
+    
+}
+
+#description{
+    margin: 0px 0px 28px 46px;
+    border: 2px solid blue;         /* for testing */
+    
+}
+
+button{
+    margin: 0px 0px 0px 150px;
+    border: 3px solid rgb(85, 218, 255);         /* for testing */
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    width: 120px;
+    height: 40px;
+    font-size: 23px;
+    border-top-right-radius: 30%;
+    border-bottom-left-radius: 30%;
+    color: rgb(0 234 255);
+    background-color: rgb(0, 0, 0);
+    
+}
+
+.form_heading{
+    border: 2px solid rgb(202, 49, 133);         /* for testing */
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    height: 36pifx;
+    width: 130px;
+    margin: 35px 0px 5px 108px;
+    color: rgb(0 234 255);
+}
+
+/* designing of image starts here */
+
+#image1{
+    border: 2px solid rgb(202, 49, 133);         /* for testing */
+    width: 54%;
+    height: 330px;
+    margin: -500px 0px 0px 0px;
+}
+
+#image1 img{
+    border: 2px solid rgb(48, 35, 235);         /* for testing */
+    width: 100%;
+    height: 320px;
+    margin: 0px 0px 0px 0px;
+}

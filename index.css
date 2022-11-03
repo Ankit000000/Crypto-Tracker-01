@@ -123,7 +123,7 @@ body{
     opacity: 50%;
   }
 
-  #div2 h3{
+  #div2_elements h3{
     color: rgb(211 211 211);
     position: absolute;
     bottom: -140%;
@@ -135,7 +135,16 @@ body{
     border-bottom-left-radius: 20px;
   }
 
-  #div2 h1{
+  #div2_elements h2{
+    color: rgb(255 255 255);
+    position: absolute;
+    bottom: -60%;
+    left: 19px;
+    font-size: 30px;
+    font-family: Arial, Helvetica, sans-serif;
+  }
+
+  #div2_elements h1{
     color: rgb(192 254 172);
     position: absolute;
     bottom: -80%;
@@ -144,14 +153,7 @@ body{
     font-family: Arial, Helvetica, sans-serif;
   }
 
-  #div2 h2{
-    color: rgb(255 255 255);
-    position: absolute;
-    bottom: -60%;
-    left: 19px;
-    font-size: 30px;
-    font-family: Arial, Helvetica, sans-serif;
-  }
+  
 
    /*designing for the footer starts here*/
 
