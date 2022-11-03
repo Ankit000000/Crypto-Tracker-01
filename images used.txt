@@ -1,5 +1,7 @@
 btc 
 money
+crypto
+cube2
 github
 html
 css
