@@ -95,10 +95,10 @@ body{
   #just_below_navbar img{
     position: absolute;
     background-repeat: no-repeat;
-    width: 52%;
-    height: 80%;
+    width: 58%;
+    height: 95%;
     top: -18px;
-    left: 444px;
+    left: 480px;
     right: 0px;
     bottom: 0px;
     border-radius: 30px;
@@ -308,7 +308,7 @@ body{
   #rate{
     width: 600px;
     height: 270px;
-    margin: 580px 0px 0px -578px;
+    margin: 580px 0px 0px -620px;
     box-shadow: 0 0 12px 4px rgb(196 255 218);
     border-radius: 22px;
   }
