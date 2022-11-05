@@ -1,5 +1,5 @@
 
-// API fetch function for getting the current dollar exchange data
+ // API fetch function for getting the current dollar exchange data
 
 var myHeaders = new Headers();
 myHeaders.append("apikey", "PzafMwBIDeT9gKZ5ZIvbw50Teq1662rG");
@@ -18,3 +18,4 @@ fetch(`https://api.apilayer.com/fixer/convert?to=INR&from=USD&amount=1`, request
     document.getElementById("r1").innerHTML=requestOptions?.date;
     document.getElementById("r6").innerHTML=requestOptions?.info?.rate;
 });
+
