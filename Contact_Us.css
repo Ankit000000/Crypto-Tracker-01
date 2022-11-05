@@ -29,19 +29,16 @@ body{
 
 #username{
     margin: 0px 0px 0px 108px;
-    border: 2px solid blue;         /* for testing */
     
 }
 
 #email{
     margin: 0px 0px 0px 108px;
-    border: 2px solid blue;         /* for testing */
     
 }
 
 #description{
     margin: 0px 0px 28px 46px;
-    border: 2px solid blue;         /* for testing */
     
 }
 
@@ -79,6 +76,7 @@ button{
     height: 340px;
     margin: -21px 0px 17px 7px;
     border-radius: 24px;
+    box-shadow: 0 0 12px 4px rgb(93 248 255);
 }
 
 /* designing of text below image starts here */

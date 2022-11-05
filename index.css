@@ -50,7 +50,7 @@ body{
 
   #button1{
     background-color: #35c216;
-    margin: 30px 0px 0px 106px;
+    margin: 30px 0px 0px 126px;
     width: 20%;
     height: 48px;
     border-top-right-radius: 18px;
@@ -75,19 +75,19 @@ body{
 
   #just_below_navbar h3{
     font-size: x-large;
-    margin: 55px 0px -23px 21px;
+    margin: 55px 0px -23px 38px;
     color: #feffff;
   }
 
   #just_below_navbar h1{
     font-size: xxx-large;
-    margin: 45px 0px 0px 8px;
+    margin: 45px 0px 0px 32px;
     color: #5bd1ba;
   }
 
   #just_below_navbar p{
     font-size: x-large;
-    margin: 41px 0px 0px 55px;
+    margin: 41px 0px 0px 76px;
     color: #f1fffa;
   }
 
@@ -95,10 +95,10 @@ body{
   #just_below_navbar img{
     position: absolute;
     background-repeat: no-repeat;
-    width: 56%;
-    height: 88%;
+    width: 52%;
+    height: 80%;
     top: -18px;
-    left: 420px;
+    left: 444px;
     right: 0px;
     bottom: 0px;
     border-radius: 30px;
@@ -256,39 +256,123 @@ body{
   /*designing for the div3 starts here*/
 
   #div3{
-    border: 3px solid blue;
     margin: 70px 0px 0px 0px;
     width: 100%;
-    height: 600px;
+    height: 870px;
     display: flex;
   }
 
   #p1{
-    border: 3px solid rgb(255, 0, 68);
-    width: 720px;
-    height: 100px;
-    margin: 120px 0px 0px -800px;
+    width: 285px;
+    height: 229px;
+    margin: 50px 0px 0px 0px;
     color: white; 
     background-color: #000000b3;
-    font-size: 36px;
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 54px;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     display: flex;
-  }
-
-  #p2{
-    border: 3px solid rgb(255, 162, 0);
-    width: 330px;
-    height: 80px;
-    margin: 345px 0px 0px -880px;
-    color: white;
-    font-size: 22px;
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
   }
 
   #div3 img{
-    border: 3px solid rgb(78, 241, 33);
-    width: 100%;
-    height: 590px;
-    margin: 0px 0px 0px 0px;
+    width: 66%;
+    height: 420px;
+    margin: 0px 0px 0px 20px;
     display: flex;
+    border-radius: 20px;
+  }
+
+  #div3 a{
+    background-color: #00e927;
+    border-top-left-radius: 22px;
+    border-bottom-right-radius: 22px;
+    width: 21%;
+    height: 40px;
+    margin: 300px 0px 0px -239px;
+    color: black;
+    text-decoration: none;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 27px;
+  }
+
+  #p2{
+    width: 583px;
+    height: 60px;
+    margin: 480px 0px 0px -744px;
+    color: #97efac;
+    font-size: 48px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  }
+
+  /*designing for the rate starts here*/
+
+  #rate{
+    width: 600px;
+    height: 270px;
+    margin: 580px 0px 0px -578px;
+    box-shadow: 0 0 12px 4px rgb(196 255 218);
+    border-radius: 22px;
+  }
+
+
+  #r0{
+    width: 186px;
+    height: 40px;
+    font-size: 26px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: white;
+    margin: 36px 0px 0px 71px;
+  }
+
+  #r1{
+    width: 186px;
+    height: 40px;
+    font-size: 39px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: #51ff76;
+    margin: -46px 0px 0px 277px;
+  }
+
+  #r2{
+    width: 375px;
+    height: 40px;
+    font-size: 29px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: white;
+    margin: 44px 0px 0px 130px;
+  }
+
+  #r3{
+    width: 70px;
+    height: 52px;
+    font-size: 45px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: #51ff76;
+    margin: 13px 0px 0px 131px;
+  }
+
+  #r4{
+    width: 70px;
+    height: 52px;
+    font-size: 63px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: white;
+    margin: -70px 0px 0px 232px;
+  }
+
+  #r5{
+    width: 236spx;
+    height: 62px;
+    font-size: 48px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    margin: -36px 0px 0px 296px;
+    color: #00ff2b;
+  }
+
+  #r6{
+    width: 236spx;
+    height: 62px;
+    font-size: 48px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: #51ff76;
+    margin: -62px 0px 0px 329px;
   }
