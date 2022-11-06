@@ -102,8 +102,9 @@ body{
     left: 520px;
     right: 0px;
     bottom: 0px;
-    border-radius: 30px;
+    border-radius: 80px;
     background-size: cover;
+    box-shadow: 0 0 12px 4px rgb(255, 255, 255);
   }
 
 
