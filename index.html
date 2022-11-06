@@ -11,7 +11,7 @@
     <!---->
     <title>Home page</title>
     <link rel="stylesheet" href="index.css">
-    <script src="index.js"></script>
+    
   </head>
   <body>
 
@@ -61,12 +61,12 @@
       <p id="p2">Current Dollar Exchange Rate</p>
       <div id="rate">
         <p id="r0">Last Updated on :</p>
-        <p id="r1"></p>
+        <p id="r1"><script> document.write(new Date().toLocaleDateString()); </script></p>
         <p id="r2">&nbsp;USD&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; INR</p>
         <p id="r3">$ 1</p>
         <p id="r4">=</p>
         <p id="r5">&#8377;</p>
-        <p id="r6"></p>
+        <div id="r6"></div>
       </div>
       
     </div>
@@ -130,6 +130,6 @@
       <img src="images/css.svg" alt="CSS image">
       
     </div>
-	
+    <script src="index.js"></script>
   </body>
 </html>

@@ -9,9 +9,9 @@ body{
 
 /* designing of navbar starts here */
 .topnav{
-    width: 50%;
-    height: 2em;
-    margin: auto 3px auto 4px;
+    width: 52%;
+    height: 5em;
+    margin: 40px 3px 0px 48px;
 }
 
 .topnav a {
@@ -19,9 +19,9 @@ body{
     float: left;
     color: #000000;
     text-align: center;
-    padding: 14px 26px;
+    padding: 20px 50px;
     text-decoration: none;
-    font-size: 17px;
+    font-size: 22px;
     color: rgb(163 231 68);
   }
   
@@ -39,9 +39,10 @@ body{
 
   #navicon h1 {
     font-family: 'Roboto Condensed', sans-serif;
-    margin: -30px -24px 5px 770px ; 
-    width: 220px;
+    margin: -105px 0px 0px 895px ; 
+    width: 323px;
     color: #1ba145;
+    font-size: 54px;
   }
 
   #navicon_secondhalf{
@@ -50,9 +51,9 @@ body{
 
   #button1{
     background-color: #35c216;
-    margin: 30px 0px 0px 126px;
-    width: 20%;
-    height: 48px;
+    margin: 70px 0px 0px 110px;
+    width: 24%;
+    height: 59px;
     border-top-right-radius: 18px;
     border-bottom-left-radius: 18px;
     font-size: 20px;
@@ -74,20 +75,20 @@ body{
   }
 
   #just_below_navbar h3{
-    font-size: x-large;
-    margin: 55px 0px -23px 38px;
+    font-size: 26px;
+    margin: 116px 0px -23px 107px;
     color: #feffff;
   }
 
   #just_below_navbar h1{
-    font-size: xxx-large;
-    margin: 45px 0px 0px 32px;
+    font-size: 59px;
+    margin: 58px 0px 0px 19px;
     color: #5bd1ba;
   }
 
   #just_below_navbar p{
-    font-size: x-large;
-    margin: 41px 0px 0px 76px;
+    font-size: 30px;
+    margin: 55px 0px 0px 57px;
     color: #f1fffa;
   }
 
@@ -95,10 +96,10 @@ body{
   #just_below_navbar img{
     position: absolute;
     background-repeat: no-repeat;
-    width: 52%;
-    height: 95%;
-    top: -18px;
-    left: 468px;
+    width: 58%;
+    height: 110%;
+    top: 40px;
+    left: 520px;
     right: 0px;
     bottom: 0px;
     border-radius: 30px;
@@ -117,8 +118,8 @@ body{
 
   #div2 img{
     width: 100%;
-    height: 650px;
-    margin: 50px 0px 0px 0px;
+    height: 795px;
+    margin: 232px 0px 0px 0px;
     border-radius: 12px;
     opacity: 50%;
   }
@@ -126,8 +127,8 @@ body{
   #div2 h3{
     color: rgb(211 211 211);
     position: absolute;
-    margin: -430px 0px 0px 0px;
-    font-size: 28px;
+    margin: -534px 0px 0px 0px;
+    font-size: 34px;
     font-family:monospace;
     background-color: rgba(0, 0, 0, 0.279);
     border-top-right-radius: 20px;
@@ -138,16 +139,16 @@ body{
   #div2 h2{
     color: rgb(255 255 255);
     position: absolute;
-    margin: -622px 0px 0px 30px;
-    font-size: 30px;
+    margin: -750px 0px 0px 30px;
+    font-size: 37px;
     font-family: Arial, Helvetica, sans-serif;
   }
 
   #div2 h1{
     color: rgb(192 254 172);
     position: absolute;
-    margin: -533px 0px 0px 205px;
-    font-size: 60px;
+    margin: -634px 0px 0px 321px;
+    font-size: 65px;
     font-family: Arial, Helvetica, sans-serif;
     padding: 0px 0px 0px 0px;
   }
@@ -158,7 +159,7 @@ body{
 
   #footer{
     width: 100%;
-    height: 280px;
+    height: 390px;
     background-color:rgb(41, 41, 41);
     margin: 70px 0px 0px 0px;
     display: flex;
@@ -231,7 +232,7 @@ body{
     background-color:rgb(41, 41, 41);
     margin: -14px 0px 0px 0px;
     width: 100%;
-    height: 190px;
+    height: 210px;
   }
 
   #below_footer p{
@@ -258,25 +259,25 @@ body{
   #div3{
     margin: 70px 0px 130px 0px;
     width: 100%;
-    height: 870px;
+    height: 1443px;
     display: flex;
   }
 
   #p1{
     width: 285px;
     height: 229px;
-    margin: 50px 0px 0px 0px;
+    margin: 461px 0px 0px 30px;
     color: white; 
     background-color: #000000b3;
-    font-size: 54px;
+    font-size: 63px;
     font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     display: flex;
   }
 
   #div3 img{
-    width: 66%;
-    height: 420px;
-    margin: 0px 0px 0px 20px;
+    width: 68%;
+    height: 475px;
+    margin: 370px 0px 0px 20px;
     display: flex;
     border-radius: 20px;
   }
@@ -286,8 +287,8 @@ body{
     border-top-left-radius: 22px;
     border-bottom-right-radius: 22px;
     width: 21%;
-    height: 40px;
-    margin: 300px 0px 0px -239px;
+    height: 49px;
+    margin: 745px 0px 0px -216px;
     color: black;
     text-decoration: none;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
@@ -295,20 +296,20 @@ body{
   }
 
   #p2{
-    width: 583px;
+    width: 703px;
     height: 60px;
-    margin: 480px 0px 0px -744px;
+    margin: 939px 0px 0px -916px;
     color: #97efac;
-    font-size: 48px;
+    font-size: 459px;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
   }
 
   /*designing for the rate starts here*/
 
   #rate{
-    width: 600px;
+    width: 826px;
     height: 270px;
-    margin: 620px 0px 0px -620px;
+    margin: 1092px 0px 0px -725px;
     box-shadow: 0 0 12px 4px rgb(196 255 218);
     border-radius: 22px;
   }

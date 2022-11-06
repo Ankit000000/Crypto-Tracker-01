@@ -1,6 +1,6 @@
 *{
     padding: 0;
-    margin: 0;
+    margin: 11px 0px 0px 0px;
     box-sizing: border-box;
     background-color: black;
 }
@@ -17,11 +17,12 @@
     display: flex;
     justify-content: space-around;
     flex-wrap: wrap;
+    margin: 190px 0px 0px 0px;
 }
 
 .card{
     width: 17%;
-    height: 200px;
+    height: 274px;
     box-shadow: 0 0 12px 4px rgb(196 255 218);
     text-align: center;
     padding: 1.5rem;
@@ -35,7 +36,7 @@
 }
 
 .title{
-    font-size: 1.3rem;
+    font-size: 1.6rem;
     font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     color: white;
 }
@@ -43,9 +44,10 @@
 .category,.price{
     font-weight: bold;
     text-transform: capitalize;
-    margin: 8px 0px 0px 0px;
+    margin: 26px 0px 0px 0px;
     font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     color: white;
+    font-size: 22px;
 
 }
 
@@ -63,9 +65,9 @@
 }
 
 #crypto_img{
-    margin: 0px 0px 50px 0px;
+    margin: -22px 0px 50px 0px;
     width: 100%;
-    height: 510px;
+    height: 610px;
 
 }
 
@@ -80,7 +82,7 @@
 
 #header_text1 h3{
     color: rgb(255 255 255);
-    font-size: 28px;
+    font-size: 35px;
     background-color: rgb(89 85 85 / 59%);
     border-radius: 10px;
     
@@ -96,7 +98,7 @@
 
 #header_text2 h3{
     color: #789082;
-    font-size: 28px;
+    font-size: 32px;
     font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     background-color: rgb(0 0 0 / 83%);
     border-radius: 10px;   
@@ -112,7 +114,7 @@
 
 #header_text3 h2{
     color: rgb(255 255 255);
-    font-size: 34px;
+    font-size: 43px;
     font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     background-color: rgb(0 0 0);
     border-radius: 10px;   
