@@ -296,11 +296,11 @@ body{
   }
 
   #p2{
-    width: 703px;
+    width: 739px;
     height: 60px;
-    margin: 939px 0px 0px -916px;
+    margin: 939px 0px 0px -925px;
     color: #97efac;
-    font-size: 459px;
+    font-size: 62px;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
   }
 
@@ -309,7 +309,7 @@ body{
   #rate{
     width: 826px;
     height: 270px;
-    margin: 1092px 0px 0px -725px;
+    margin: 1092px 0px 0px -740px;
     box-shadow: 0 0 12px 4px rgb(196 255 218);
     border-radius: 22px;
   }
