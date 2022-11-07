@@ -97,15 +97,15 @@ body{
   #just_below_navbar img{
     position: absolute;
     background-repeat: no-repeat;
-    width: 40%;
-    height: 78%;
-    top: 40px;
-    left: 704px;
+    width: 34%;
+    height: 67%;
+    top: 26px;
+    left: 729px;
     right: 0px;
     bottom: 0px;
-    border-radius: 80px;
+    border-radius: 34px;
     background-size: cover;
-    box-shadow: 0 0 38px 9px rgb(255, 255, 255);
+    box-shadow: 0 0 38px 10px rgb(255, 255, 255);
   }
 
 

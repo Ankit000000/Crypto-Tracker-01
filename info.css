@@ -17,8 +17,8 @@ body{
 .elements_of_table{
   display: flex;
   height: 160px;
-  width: 3744px;
-  box-shadow: 0 0 12px 4px rgb(196 255 218);
+  width: 3755px;
+  box-shadow: 0 0 26px 6px rgb(196 255 218);
   border-radius: 80px;
   margin-bottom: 18px;
   margin-top: 44px;
@@ -72,6 +72,7 @@ h1{
   width: 191px;
   height: 100px;
   margin: 48px 34px 0px 0px;
+  font-size: 18px;
 }
 
 .table_elements p{
