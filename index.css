@@ -11,7 +11,7 @@ body{
 .topnav{
     width: 52%;
     height: 5em;
-    margin: 40px 3px 0px 48px;
+    margin: 21px 3px 0px 48px;
 }
 
 .topnav a {
@@ -39,7 +39,7 @@ body{
 
   #navicon h1 {
     font-family: 'Roboto Condensed', sans-serif;
-    margin: -105px 0px 0px 895px ; 
+    margin: -74px 0px 0px 923px ; 
     width: 323px;
     color: #1ba145;
     font-size: 54px;
@@ -51,9 +51,9 @@ body{
 
   #button1{
     background-color: #35c216;
-    margin: 70px 0px 0px 226px;
-    width: 24%;
-    height: 55px;
+    margin: 70px 0px 0px 248px;
+    width: 20%;
+    height: 48px;
     border-top-right-radius: 18px;
     border-bottom-left-radius: 18px;
     font-size: 20px;
@@ -63,7 +63,7 @@ body{
     color: #000000;
     text-decoration: none;
     font-family: 'Roboto Condensed', sans-serif;
-    font-size: 32px;
+    font-size: 27px;
   }
 
   /* designing of Text and image of cube just below the navbar starts here*/
@@ -89,7 +89,7 @@ body{
 
   #just_below_navbar p{
     font-size: 30px;
-    margin: 55px 0px 0px 176px;
+    margin: 55px 0px 0px 193px;
     color: #f1fffa;
   }
 
@@ -97,10 +97,10 @@ body{
   #just_below_navbar img{
     position: absolute;
     background-repeat: no-repeat;
-    width: 34%;
-    height: 67%;
+    width: 32%;
+    height: 65%;
     top: 26px;
-    left: 729px;
+    left: 760px;
     right: 0px;
     bottom: 0px;
     border-radius: 34px;
@@ -277,20 +277,20 @@ body{
   #div3 a{
     border-top-left-radius: 22px;
     border-bottom-right-radius: 22px;
-    width: 23%;
-    height: 250px;
-    margin: 447px 0px 0px 66px;
+    width: 16%;
+    height: 117px;
+    margin: 490px 0px 0px 100px;
     color: rgb(255, 255, 255);
     text-decoration: none;
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    font-size: 65px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 40px;
   }
 
   #p2{
     width: 739px;
     height: 60px;
-    margin: 939px 0px 0px -940px;
-    color: #97efac;
+    margin: 939px 0px 0px -915px;
+    color: #abe3b8;
     font-size: 62px;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
   }
