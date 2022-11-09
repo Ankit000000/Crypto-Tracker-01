@@ -191,19 +191,19 @@ body{
   #footer_div0{
     margin: 88px 0px 0px -89px;   
     height: 172px;
-    width: 113px;
+    width: 130px;
   }
 
   #footer_div1{
     margin: 88px 0px 0px -117px;   
     height: 172px;
-    width: 113px;
+    width: 133px;
   }
 
   #footer_div2{
     margin: 88px 0px 0px -97px;   
     height: 172px;
-    width: 118px;
+    width: 140px;
   }
 
   #footer_div3{
@@ -226,6 +226,11 @@ body{
     text-decoration: none;
     color:#e4e4e4;
     padding: 0px 0px 0px 0px;
+  }
+
+  .footer_li a:hover{
+    color: #42dc40;
+    margin: 0px 0px 0px 20px;
   }
 
   /*designing for the element below footer starts here*/
