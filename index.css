@@ -124,6 +124,7 @@ body{
     margin: 232px 0px 0px 0px;
     border-radius: 12px;
     opacity: 50%;
+    box-shadow: 0 0 43px 10px white;
   }
 
   #div2 h3{
