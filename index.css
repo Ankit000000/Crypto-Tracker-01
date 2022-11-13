@@ -9,9 +9,10 @@ body{
 
 /* designing of navbar starts here */
 .topnav{
-    width: 52%;
-    height: 5em;
-    margin: 21px 3px 0px 48px;
+    width: 100%;
+    height: 3.4em;
+    margin: 0px 0px 0px 0px;
+    border: 1px solid red;
 }
 
 .topnav a {
@@ -19,9 +20,9 @@ body{
     float: left;
     color: #000000;
     text-align: center;
-    padding: 20px 50px;
+    padding: 9px 27px;
     text-decoration: none;
-    font-size: 22px;
+    font-size: 21px;
     color: rgb(163 231 68);
   }
   
@@ -37,12 +38,17 @@ body{
     background-color: white;
   }
 
+  #navicon{
+    margin: 0px -73px 0px 0px;
+    float: right;
+  }
+
   #navicon h1 {
     font-family: 'Roboto Condensed', sans-serif;
-    margin: -74px 0px 0px 923px ; 
+    margin: 0px 0px 0px 0px ; 
     width: 323px;
     color: #1ba145;
-    font-size: 54px;
+    font-size: 40px;
   }
 
   #navicon_secondhalf{
@@ -57,6 +63,7 @@ body{
     border-top-right-radius: 18px;
     border-bottom-left-radius: 18px;
     font-size: 20px;
+    float: left;
   }
 
   #button1 a{
@@ -69,28 +76,35 @@ body{
   /* designing of Text and image of cube just below the navbar starts here*/
   #just_below_navbar{
     font-family: 'Roboto Condensed', sans-serif;
-    height: 550px;
+    height: 745px;
     width: 100%;
     position: relative;
+    border: 1px solid red;
     
   }
 
   #just_below_navbar h3{
     font-size: 29px;
-    margin: 116px 0px -23px 162px;
+    margin: 60px 0px 0px 162px;
     color: #feffff;
+    width: 420px;
+    float: left;
   }
 
   #just_below_navbar h1{
     font-size: 64px;
-    margin: 58px 0px 0px 112px;
+    margin: 32px 0px 0px 112px;
     color: #5bd1ba;
+    width: 530px;
+    float: left;
   }
 
   #just_below_navbar p{
     font-size: 30px;
     margin: 55px 0px 0px 193px;
     color: #f1fffa;
+    width: 420px;
+    float: left;
   }
 
 
@@ -99,20 +113,19 @@ body{
     background-repeat: no-repeat;
     width: 32%;
     height: 65%;
-    top: 26px;
-    left: 760px;
-    right: 0px;
-    bottom: 0px;
+    float: right;
+    margin: 100px 0px 0px 0px;
     border-radius: 34px;
     background-size: cover;
     box-shadow: 0 0 38px 10px rgb(255, 255, 255);
+    
   }
 
 
   /*designing for the div2 starts here*/
 
   #div2{
-    margin-top: 25px;
+    margin-top: 115px;
     width: 100%;
     height: 750px;
   }
@@ -121,7 +134,7 @@ body{
   #div2 img{
     width: 100%;
     height: 795px;
-    margin: 232px 0px 0px 0px;
+    margin: 0px 0px 0px 0px;
     border-radius: 12px;
     opacity: 50%;
     box-shadow: 0 0 43px 10px white;
@@ -274,7 +287,7 @@ body{
   #div3 img{
     width: 51%;
     height: 366px;
-    margin: 468px 0px 0px 180px;
+    margin: 130px 0px 0px 180px;
     display: flex;
     border-radius: 20px;
     box-shadow: 0 0 34px 10px white;
@@ -285,7 +298,7 @@ body{
     border-bottom-right-radius: 22px;
     width: 16%;
     height: 117px;
-    margin: 578px 0px 0px 100px;
+    margin: 222px 0px 0px 100px;
     color: rgb(255, 255, 255);
     text-decoration: none;
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
