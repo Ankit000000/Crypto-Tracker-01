@@ -77,7 +77,7 @@ body{
   
   #just_below_navbar{
     font-family: 'Roboto Condensed', sans-serif;
-    height: 745px;
+    height: 680px;
     width: 100%;
     position: relative;
     /* border: 1px solid red; */
@@ -94,7 +94,7 @@ body{
 
   #just_below_navbar h1{
     font-size: 64px;
-    margin: 231px 0px 0px -445px;
+    margin: 200px 0px 0px -445px;
     color: #5bd1ba;
     width: 530px;
     float: left;
@@ -102,7 +102,7 @@ body{
 
   #just_below_navbar p{
     font-size: 30px;
-    margin: 55px 0px 0px 220px;
+    margin: 40px 0px 0px 220px;
     color: #f1fffa;
     width: 420px;
     float: left;
@@ -113,7 +113,7 @@ body{
     position: absolute;
     background-repeat: no-repeat;
     width: 32%;
-    height: 50%;
+    height: 52%;
     float: right;
     margin: 100px 0px 0px 115px;
     border-radius: 34px;
