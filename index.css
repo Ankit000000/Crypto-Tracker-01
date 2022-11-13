@@ -12,7 +12,7 @@ body{
     width: 100%;
     height: 3.4em;
     margin: 0px 0px 0px 0px;
-    border: 1px solid red;
+    /* border: 1px solid red; */
 }
 
 .topnav a {
@@ -55,9 +55,11 @@ body{
     color: #64ff04;
   }
 
+  /* designing of Text and image of bitcoin just below the navbar starts here*/
+
   #button1{
     background-color: #35c216;
-    margin: 70px 0px 0px 266px;
+    margin: 70px 0px 0px -336px;
     width: 15%;
     height: 41px;
     border-top-right-radius: 18px;
@@ -73,13 +75,13 @@ body{
     font-size: 25px;
   }
 
-  /* designing of Text and image of cube just below the navbar starts here*/
+  
   #just_below_navbar{
     font-family: 'Roboto Condensed', sans-serif;
     height: 745px;
     width: 100%;
     position: relative;
-    border: 1px solid red;
+    /* border: 1px solid red; */
     
   }
 
@@ -93,7 +95,7 @@ body{
 
   #just_below_navbar h1{
     font-size: 64px;
-    margin: 32px 0px 0px 112px;
+    margin: 231px 0px 0px -445px;
     color: #5bd1ba;
     width: 530px;
     float: left;
@@ -101,7 +103,7 @@ body{
 
   #just_below_navbar p{
     font-size: 30px;
-    margin: 55px 0px 0px 193px;
+    margin: 55px 0px 0px 220px;
     color: #f1fffa;
     width: 420px;
     float: left;
@@ -112,9 +114,9 @@ body{
     position: absolute;
     background-repeat: no-repeat;
     width: 32%;
-    height: 65%;
+    height: 50%;
     float: right;
-    margin: 100px 0px 0px 0px;
+    margin: 100px 0px 0px 115px;
     border-radius: 34px;
     background-size: cover;
     box-shadow: 0 0 38px 10px rgb(255, 255, 255);
@@ -169,7 +171,118 @@ body{
     padding: 0px 0px 0px 0px;
   }
 
-  
+  /*designing for the div3 starts here*/
+
+  #div3{
+    margin: 70px 0px 130px 0px;
+    width: 100%;
+    height: 1052px;
+    display: flex;
+  }
+
+  #div3 img{
+    width: 51%;
+    height: 366px;
+    margin: 130px 0px 0px 180px;
+    display: flex;
+    border-radius: 20px;
+    box-shadow: 0 0 34px 10px white;
+  }
+
+  #div3 a{
+    border-top-left-radius: 22px;
+    border-bottom-right-radius: 22px;
+    width: 16%;
+    height: 117px;
+    margin: 222px 0px 0px 100px;
+    color: rgb(255, 255, 255);
+    text-decoration: none;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 40px;
+  }
+
+  #p2{
+    width: 739px;
+    height: 60px;
+    margin: 590px 0px 0px -892px;
+    color: #abe3b8;
+    font-size: 62px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  }
+
+  /*designing for the rate starts here*/
+
+  #rate{
+    width: 826px;
+    height: 270px;
+    margin: 744px 0px 0px -760px;
+    box-shadow: 0 0 25px 8px rgb(196 255 218);
+    border-radius: 35px;
+  }
+
+
+  #r0{
+    width: 186px;
+    height: 40px;
+    font-size: 26px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: white;
+    margin: 36px 0px 0px 71px;
+  }
+
+  #r1{
+    width: 186px;
+    height: 40px;
+    font-size: 39px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: #51ff76;
+    margin: -46px 0px 0px 277px;
+  }
+
+  #r2{
+    width: 375px;
+    height: 40px;
+    font-size: 29px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: white;
+    margin: 44px 0px 0px 130px;
+  }
+
+  #r3{
+    width: 70px;
+    height: 52px;
+    font-size: 45px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: #51ff76;
+    margin: 13px 0px 0px 131px;
+  }
+
+  #r4{
+    width: 70px;
+    height: 52px;
+    font-size: 63px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: white;
+    margin: -70px 0px 0px 232px;
+  }
+
+  #r5{
+    width: 236spx;
+    height: 62px;
+    font-size: 48px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    margin: -36px 0px 0px 296px;
+    color: #00ff2b;
+  }
+
+  #r6{
+    width: 236spx;
+    height: 62px;
+    font-size: 48px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: #51ff76;
+    margin: -62px 0px 0px 329px;
+  }
 
    /*designing for the footer starts here*/
 
@@ -275,115 +388,4 @@ body{
     border-radius: 22px;
   }
 
-  /*designing for the div3 starts here*/
-
-  #div3{
-    margin: 70px 0px 130px 0px;
-    width: 100%;
-    height: 1532px;
-    display: flex;
-  }
-
-  #div3 img{
-    width: 51%;
-    height: 366px;
-    margin: 130px 0px 0px 180px;
-    display: flex;
-    border-radius: 20px;
-    box-shadow: 0 0 34px 10px white;
-  }
-
-  #div3 a{
-    border-top-left-radius: 22px;
-    border-bottom-right-radius: 22px;
-    width: 16%;
-    height: 117px;
-    margin: 222px 0px 0px 100px;
-    color: rgb(255, 255, 255);
-    text-decoration: none;
-    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
-    font-size: 40px;
-  }
-
-  #p2{
-    width: 739px;
-    height: 60px;
-    margin: 973px 0px 0px -892px;
-    color: #abe3b8;
-    font-size: 62px;
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-  }
-
-  /*designing for the rate starts here*/
-
-  #rate{
-    width: 826px;
-    height: 270px;
-    margin: 1164px 0px 0px -760px;
-    box-shadow: 0 0 25px 8px rgb(196 255 218);
-    border-radius: 35px;
-  }
-
-
-  #r0{
-    width: 186px;
-    height: 40px;
-    font-size: 26px;
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    color: white;
-    margin: 36px 0px 0px 71px;
-  }
-
-  #r1{
-    width: 186px;
-    height: 40px;
-    font-size: 39px;
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    color: #51ff76;
-    margin: -46px 0px 0px 277px;
-  }
-
-  #r2{
-    width: 375px;
-    height: 40px;
-    font-size: 29px;
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    color: white;
-    margin: 44px 0px 0px 130px;
-  }
-
-  #r3{
-    width: 70px;
-    height: 52px;
-    font-size: 45px;
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    color: #51ff76;
-    margin: 13px 0px 0px 131px;
-  }
-
-  #r4{
-    width: 70px;
-    height: 52px;
-    font-size: 63px;
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    color: white;
-    margin: -70px 0px 0px 232px;
-  }
-
-  #r5{
-    width: 236spx;
-    height: 62px;
-    font-size: 48px;
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    margin: -36px 0px 0px 296px;
-    color: #00ff2b;
-  }
-
-  #r6{
-    width: 236spx;
-    height: 62px;
-    font-size: 48px;
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    color: #51ff76;
-    margin: -62px 0px 0px 329px;
-  }
+  
