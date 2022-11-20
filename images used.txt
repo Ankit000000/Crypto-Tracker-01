@@ -2,10 +2,19 @@ btc
 money
 crypto
 keyboard
+cubes
+
 
 github
-
 html
 css
 js
 coingecko
+
+
+dollar_sign
+ether
+graphs
+heatmap_logo
+messages
+table_logo
