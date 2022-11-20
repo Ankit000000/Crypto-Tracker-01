@@ -118,8 +118,7 @@ body{
     margin: 100px 0px 0px 115px;
     border-radius: 34px;
     background-size: cover;
-    box-shadow: 0 0 38px 10px rgb(255, 255, 255);
-    
+    box-shadow: 0 0 32px 3px rgb(255, 255, 255);
   }
 
 
@@ -185,7 +184,7 @@ body{
     margin: 130px 0px 0px 180px;
     display: flex;
     border-radius: 20px;
-    box-shadow: 0 0 34px 10px white;
+    box-shadow: 0 0 30px 3px white;
   }
 
   #div3 a{
@@ -384,7 +383,7 @@ body{
 
   .white{
     background-color: white;
-    border-radius: 22px;
+    border-radius: 20px;
   }
 
   

@@ -70,7 +70,7 @@ body{
 /* designing of form starts here */
 
 .form{
-    height: 600px;
+    height: 650px;
     width: 40%;
     margin: 175px 0px 0px 434px; 
 } 
@@ -130,7 +130,7 @@ button{
 #text{
     width: 290px;
     height: 300px;
-    margin: -265px 0px 0px 900px;
+    margin: -275px 0px 0px 900px;
 }
 
 #p0{
