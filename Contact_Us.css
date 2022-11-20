@@ -61,7 +61,7 @@ body{
 #heading_div h1{
     width: 40%;
     height: 60px;
-    margin: 24px 0px 0px 432px; 
+    margin: 30px 0px 0px 432px; 
     font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     font-size: 61px;
     color: rgb(85 255 145);
@@ -121,39 +121,39 @@ button{
 
 #image1 img{
     width: 100%;
-    height: 344px;
+    height: 330px;
     margin: 0px 0px 0px 0px;
 }
 
 /* designing of text below image starts here */
 
 #text{
-    width: 170px;
-    height: 330px;
-    margin: -300px 0px 0px 900px;
+    width: 290px;
+    height: 300px;
+    margin: -265px 0px 0px 900px;
 }
 
 #p0{
     margin: 0px 0px 0px 0px;
-    font-size: 22px;
+    font-size: 36px;
     font-family:system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
     color: rgb(255, 255, 255);
 }
 #p1{
     margin: 0px 0px 0px 0px;
-    font-size: 37px;
+    font-size: 72px;
     font-family:system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
     color: rgb(117 255 53);
 }
 #p2{
     margin: 0px 0px 0px 0px;
-    font-size: 23px;
+    font-size: 32px;
     font-family:system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
     color: rgb(255, 255, 255);
 }
 #p3{
     margin: 0px 0px 0px 0px;
-    font-size: 40px;
+    font-size: 72px;
     font-family:system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
     color: rgb(117 255 53);
 }
