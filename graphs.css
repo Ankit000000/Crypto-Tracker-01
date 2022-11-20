@@ -1,0 +1,10 @@
+body{
+    background-color: rgb(0, 0, 0);
+}
+
+h1{
+    color: #5dff3a;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    margin: 32px 0px 34px 373px;
+    font-size: 45px;
+}
