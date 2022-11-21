@@ -180,7 +180,7 @@
         width: 100%;
     }
     #navicon{
-        margin: 2.6em 9em 2.3em 0em;
+        margin: 2.6em 1em 2.3em 0em;
     }
     #before_root{
         display: none;
@@ -189,8 +189,8 @@
         flex-direction: column;
     }
     .card{
-        margin: 0em 0em 2.7em 7em;
-        width: 50%;
+        margin: 0em 0em 2.7em 4.5em;
+        width: 15rem;
     }
 
 }
