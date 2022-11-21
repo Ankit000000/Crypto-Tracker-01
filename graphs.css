@@ -55,3 +55,18 @@ h1{
 #navicon_secondhalf {
     color: #64ff04;
 }
+
+/* Extra small devices (phones, 420px and down) */
+@media only screen and (max-width: 420px) {
+    .topnav{
+        width: 100%;
+        margin: 0em 0em 0em 1em;
+    }
+    #navicon{
+        display: none;
+    }
+    h1{
+        margin: 0em 0em 0em 0em;
+    }
+    
+}

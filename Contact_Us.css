@@ -157,3 +157,29 @@ button{
     font-family:system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
     color: rgb(117 255 53);
 }
+
+
+/* Extra small devices (phones, 420px and down) */
+@media only screen and (max-width: 420px) {
+    .topnav{
+        width: 100%;
+        margin: 0em 0em 0em -1em;
+    }
+    #navicon{
+        display: none;
+    }
+    #heading_div{
+        display: none;
+    }
+    #image1 img{
+        margin: -6em 0em 0em 0em;
+        width: 100px;
+    }
+    #text{
+        margin: -10em 0em 6em 0em;
+    }
+    .form{
+        margin: 0em 0em 0em -3em;
+    }
+    
+}

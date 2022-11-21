@@ -174,7 +174,7 @@
     height: 60px;
 }
 
-/* Extra small devices (phones, 390px and down) */
+/* Extra small devices (phones, 420px and down) */
 @media only screen and (max-width: 420px) {
     .topnav{
         width: 100%;

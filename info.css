@@ -205,3 +205,19 @@ h1{
 #lu{
   margin: 11px 0px 0px 944px;
 }
+
+/* Extra small devices (phones, 420px and down) */
+@media only screen and (max-width: 420px) {
+  .topnav{
+      width: 100%;
+      margin: 0em 0em 0em 1em;
+  }
+  #navicon{
+    display: none;
+  }
+  #heading h1{
+    margin: 2em 0em 0em 0.5em;
+    font-size: 50px;
+  }
+
+}
