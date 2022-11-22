@@ -390,7 +390,6 @@ body{
 /* Extra small devices (phones, 420px and down) */
 @media only screen and (max-width: 420px) {
   .topnav{
-    border: 1px solid rgb(8, 255, 239);
     width: 100%;
     height: 5em;
     margin: 0em 0em 0em 0em;
@@ -402,7 +401,6 @@ body{
     display: none;
   }
   #just_below_navbar{
-    border: 1px solid blue;
     height: 800px;
   }
   #just_below_navbar h3{
@@ -432,7 +430,6 @@ body{
     border-radius: 10%;
   }
   #div2{
-    border: 1px solid blue;
     height: 630px;
   }
   #div2 img{
@@ -457,7 +454,6 @@ body{
     margin: 0em 0em 0em 0em;
   }
   #div3{
-    border: 1px solid blue;
     height: 980px;
   }
   #div3 img{
@@ -509,7 +505,7 @@ body{
     font-size: 1.7em;;
   }
   #footer{
-    border: 1px solid red;
+    margin: 0em 0em 1em 0em;
     height: 30em;
     width: 100%;
   }
@@ -542,9 +538,8 @@ body{
     margin: 0em 0em 0em 1em;
   }
   #below_footer{
-    border: 1px solid rgb(51, 250, 234);
-    height: 21em;
     width: 100%;
+    height: 21em;
   }
   #below_footer p{
     margin: 0em 0em 0em -7em;
