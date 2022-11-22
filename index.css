@@ -426,7 +426,7 @@ body{
   #just_below_navbar img{
     width: 18.5em;
     height: 17em;
-    margin: 31em 0em 0em -34em;
+    margin: 31em 0em 0em -35em;
     border-radius: 10%;
   }
   #div2{
@@ -458,13 +458,13 @@ body{
   }
   #div3 img{
     width: 22em;
-    height: 20em;
-    margin: 2em 0em 0em 2em;
+    height: 14em;
+    margin: 2em 0em 0em 1em;
     border-radius: 4%;
   }
   #div3 a{
     font-size: 1.8em;
-    margin: 15em 0em 0em -8em;
+    margin: 12em 0em 0em -8em;
   }
   #p2{
     white-space: nowrap;
@@ -474,35 +474,35 @@ body{
   }
   #rate{
     width: 98%;
-    height: 25%;
-    margin: 43em 0em 0em -26em;
+    height: 24%;
+    margin: 43em 0em 0em -27em;
   }
   #r0{
     margin: 1.5em 0em 0em 1.5em;
-    font-size: 1.5em;;
+    font-size: 1.2em;;
   }
   #r1{
-    margin: -1.5em 0em 0em 8.5em;
-    font-size: 1.8em;;
+    margin: -1.7em 0em 0em 8.5em;
+    font-size: 1.5em;;
   }
   #r2{
-    margin: 1em 0em 0em 2.4em;
+    margin: 1em 0em 0em 1em;
     font-size: 1.7em;;
   }
   #r3{
-    margin: 1em 0em 0em 1.5em;
+    margin: 1em 0em 0em 0.9em;
     font-size: 2em;;
   }#r4{
-    margin: -1.8em 0em 0em 3.6em;
+    margin: -1.8em 0em 0em 3em;
     font-size: 1.8em;;
   }
   #r5{
-    margin: -1.6em 0em 0em 4.3em;
+    margin: -1.6em 0em 0em 3.9em;
     font-size: 2em;;
   }
   #r6{
-    margin: -2.1em 0em 0em 6.1em;
-    font-size: 1.7em;;
+    margin: -2.4em 0em 0em 6.3em;
+    font-size: 1.5em;;
   }
   #footer{
     margin: 0em 0em 1em 0em;
@@ -539,7 +539,7 @@ body{
   }
   #below_footer{
     width: 100%;
-    height: 21em;
+    height: 20em;
   }
   #below_footer p{
     margin: 0em 0em 0em -7em;
