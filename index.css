@@ -437,23 +437,24 @@ body{
   }
   #div2 img{
     width: 100%;
-    height: 38em;
+    height: 16em;
     margin: 0em 0em 0em 0em;
     border-radius: 5%;
   }
   #div2 h1{
-    font-size: 1.7em;
-    margin: -19em 0em 0em 0em;
+    font-size: 2.7em;
+    margin: -3.5em 0em 0em 0em;
+    background-color: #0000005c;
   }
   #div2 h2{
-    font-size: 1.5em;
-    margin: -23.5em 0em 0em 0.7em;
+    font-size: 2em;
+    margin: -7.3em 0em 0em 0.7em;
   }
   #div2 h3{
     overflow: auto;
     width: 100%;
     font-size: 1.8em;
-    margin: -18em 0em 0em 0em;
+    margin: 0em 0em 0em 0em;
   }
   #div3{
     border: 1px solid blue;
